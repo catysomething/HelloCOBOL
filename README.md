@@ -1,10 +1,1 @@
-# HelloWorld
-# HelloWorld
-# HelloWorld
-# HelloWorld
-# HelloWorld
-# HelloCOBOL
-# HelloCOBOL
-# HelloCOBOL
-# HelloCOBOL
 # HelloCOBOL
